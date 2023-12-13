@@ -1,6 +1,6 @@
 ### Good Morning! I'm Jose 👋
 
-I'm a junior at WashU pursuing a BS in Computer Engineering and a BS in Computer Science. Feel free to take a look at some of my projects! Reach out to me at josefolgar1232@gmail.com for any inquiries or if you're ever interested in working with me!
+I'm a senior at WashU pursuing a BS in Computer Engineering and a BS in Computer Science. Feel free to take a look at some of my projects! Reach out to me at josefolgar1232@gmail.com for any inquiries or if you're ever interested in working with me!
 
 <!--
 **JoseMario3/JoseMario3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
